@@ -1,0 +1,11 @@
+{
+  "name": "etdsolutions/baguetteBox.js",
+  "description": "Shim repository for baguetteBox.js",
+  "authors": [
+    {
+      "name": "Marek Grzybek"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://feimosi.github.io/baguetteBox.js/"
+}
